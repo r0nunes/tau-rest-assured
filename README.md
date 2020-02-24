@@ -1,2 +1,3 @@
-# tau-rest-assured
-API Testing with rest assured
+# Test Automation Universty
+API Testing with rest assured 
+
