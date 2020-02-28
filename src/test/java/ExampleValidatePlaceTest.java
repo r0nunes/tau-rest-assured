@@ -54,7 +54,7 @@ public class ExampleValidatePlaceTest {
 
     @Test
     public void validateZipCode90210_And_PlaceNameHasSize() {
-        // Deve trazer apenas uma Plance Name.
+
         given().
                 when().
                     get("http://zippopotam.us/us/90210").
