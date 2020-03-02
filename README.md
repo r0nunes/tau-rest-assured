@@ -14,4 +14,4 @@ Course about API tests using Java library REST Assured. To start this course, I 
 ## Running
 
 1. Clone repository
-2. Open the terminal, go to tau-rest-asserud folder and execute `mvn test`
+2. Open the terminal, go to tau-rest-assured folder and execute `mvn test`
