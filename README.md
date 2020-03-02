@@ -10,3 +10,8 @@ Course about API tests using Java library REST Assured. To start this course, I 
 1. IDE IntelliJ
 2. JUnit 5.5.2
 3. Rest-assured 3.3.0
+
+## Running
+
+1. Clone repository
+2. Open the terminal, go to tau-rest-asserud folder and execute `mvn test`
