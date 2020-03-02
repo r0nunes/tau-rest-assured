@@ -31,11 +31,12 @@
             <scope>test</scope>
         </dependency>
         <dependency>
-            <groupId>com.tngtech.junit.dataprovider</groupId>
-            <artifactId>junit4-dataprovider</artifactId>
-            <version>${junit.dataprovider.version}</version>
+            <groupId>org.junit.jupiter</groupId>
+            <artifactId>junit-jupiter-params</artifactId>
+            <version>5.6.0</version>
             <scope>test</scope>
         </dependency>
+
     </dependencies>
 
     <build>

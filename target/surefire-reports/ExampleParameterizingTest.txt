@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
-Test set: ExampleValidatePlaceTest
+Test set: ExampleParameterizingTest
 -------------------------------------------------------------------------------
-Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.051 s - in ExampleValidatePlaceTest
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.228 s - in ExampleParameterizingTest
