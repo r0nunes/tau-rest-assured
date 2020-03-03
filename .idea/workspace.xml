@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc967115-f15f-41ac-99b5-f80bf16f976c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/ExampleExtractValueText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ExampleOptimizingCodeTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/ExampleParameterizingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ExampleParameterizingTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ExampleValidatePlaceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ExampleValidatePlaceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ExampleParameterizingTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ExampleParameterizingTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +45,27 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ExampleParameterizingTest.requestZipCodesFromCollection_checkPlaceNameInResponseBody_expectSpecifiedPlaceName">
+  <component name="RunManager" selected="JUnit.ExampleExtractValueText.ExtractPlaceNameFromResponseBody">
+    <configuration name="ExampleExtractValueText.ExtractPlaceNameFromResponseBody" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tau-rest-assured" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ExampleExtractValueText" />
+      <option name="METHOD_NAME" value="ExtractPlaceNameFromResponseBody" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExampleOptimizingCodeTest.validateZipCode90210_And_PlaceNameBeverlyHills" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tau-rest-assured" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ExampleOptimizingCodeTest" />
+      <option name="METHOD_NAME" value="validateZipCode90210_And_PlaceNameBeverlyHills" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ExampleParameterizingTest.requestZipCodesFromCollection_checkPlaceNameInResponseBody_expectSpecifiedPlaceName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="tau-rest-assured" />
       <option name="PACKAGE_NAME" value="" />
@@ -64,25 +86,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExampleValidatePlaceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="tau-rest-assured" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ExampleValidatePlaceTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ExampleValidatePlaceTest.validateZipCode90210_And_PlaceNameBeverlyHills" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="tau-rest-assured" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ExampleValidatePlaceTest" />
-      <option name="METHOD_NAME" value="validateZipCode90210_And_PlaceNameBeverlyHills" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ExampleValidatePlaceTest.validateZipCode90210_And_PlaceNameHasSize" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="tau-rest-assured" />
       <option name="PACKAGE_NAME" value="" />
@@ -95,11 +98,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ExampleExtractValueText.ExtractPlaceNameFromResponseBody" />
+        <item itemvalue="JUnit.ExampleOptimizingCodeTest.validateZipCode90210_And_PlaceNameBeverlyHills" />
         <item itemvalue="JUnit.ExampleParameterizingTest.requestZipCodesFromCollection_checkPlaceNameInResponseBody_expectSpecifiedPlaceName" />
         <item itemvalue="JUnit.ExampleParameterizingTest.zipCodesAndPlaces" />
         <item itemvalue="JUnit.ExampleValidatePlaceTest.validateZipCode90210_And_PlaceNameHasSize" />
-        <item itemvalue="JUnit.ExampleValidatePlaceTest" />
-        <item itemvalue="JUnit.ExampleValidatePlaceTest.validateZipCode90210_And_PlaceNameBeverlyHills" />
       </list>
     </recent_temporary>
   </component>
@@ -117,26 +120,26 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1583178151160">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1583260742618">
+      <screen x="1920" y="-1" width="1920" height="1050" />
     </state>
     <state width="1877" height="285" key="GridCell.Tab.0.bottom/1920.-1.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1583178151160" />
-    <state width="1877" height="352" key="GridCell.Tab.0.bottom/1920.-1.1920.1050/0.0.1920.1050@1920.-1.1920.1050" timestamp="1582737731596" />
-    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1583178151160">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom/1920.-1.1920.1050/0.0.1920.1050@1920.-1.1920.1050" timestamp="1583260742618" />
+    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1583260742618">
+      <screen x="1920" y="-1" width="1920" height="1050" />
     </state>
     <state width="1877" height="285" key="GridCell.Tab.0.center/1920.-1.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1583178151160" />
-    <state width="1877" height="352" key="GridCell.Tab.0.center/1920.-1.1920.1050/0.0.1920.1050@1920.-1.1920.1050" timestamp="1582737731596" />
-    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1583178151160">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state width="1877" height="285" key="GridCell.Tab.0.center/1920.-1.1920.1050/0.0.1920.1050@1920.-1.1920.1050" timestamp="1583260742618" />
+    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1583260742618">
+      <screen x="1920" y="-1" width="1920" height="1050" />
     </state>
     <state width="1877" height="285" key="GridCell.Tab.0.left/1920.-1.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1583178151160" />
-    <state width="1877" height="352" key="GridCell.Tab.0.left/1920.-1.1920.1050/0.0.1920.1050@1920.-1.1920.1050" timestamp="1582737731596" />
-    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1583178151160">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state width="1877" height="285" key="GridCell.Tab.0.left/1920.-1.1920.1050/0.0.1920.1050@1920.-1.1920.1050" timestamp="1583260742618" />
+    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1583260742618">
+      <screen x="1920" y="-1" width="1920" height="1050" />
     </state>
     <state width="1877" height="285" key="GridCell.Tab.0.right/1920.-1.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1583178151160" />
-    <state width="1877" height="352" key="GridCell.Tab.0.right/1920.-1.1920.1050/0.0.1920.1050@1920.-1.1920.1050" timestamp="1582737731596" />
+    <state width="1877" height="285" key="GridCell.Tab.0.right/1920.-1.1920.1050/0.0.1920.1050@1920.-1.1920.1050" timestamp="1583260742618" />
     <state width="1877" height="352" key="GridCell.Tab.1.bottom" timestamp="1582740723564">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
