@@ -20,9 +20,9 @@ public class ExampleParameterizingTest {
         {
             given().
                     pathParam("countryCode", countryCode).pathParam("zipCode", zipCode).
-                    when().
+            when().
                     get("http://zippopotam.us/{countryCode}/{zipCode}").
-                    then().
+            then().
                     assertThat().
                     body("places[0].'place name'", equalTo(expectedPlaceName));
         }
